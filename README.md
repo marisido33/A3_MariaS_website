@@ -3,6 +3,8 @@
 
 This portfolio website was created as an assignment for GIST5300 class at the University of Wyoming. It provides some information about me and my projects.
 
+[Website](https://marisido33.github.io/A3_MariaS_website/index.html)
+
 Website contains 5 pages:
 
 Home: tells about my skills and experiences.
