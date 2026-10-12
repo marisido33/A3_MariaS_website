@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Arizona Trip StoryMap",
+    "description": "Interactive ArcGIS Online StoryMap about my trip to Arizona.",
+    "link": "https://storymaps.arcgis.com/stories/12da3eb1dbfe494c9eef320857238aa1"
+  },
+  {
+    "title": "Wyoming Wind Turbines",
+    "description": "Interactive Tableau Dashboard about Wyoming Wind Turbines.",
+    "link": "https://public.tableau.com/app/profile/maria.sidorenko/viz/wind_maps_dashboard/Dashboard1"
+  },
+  {
+    "title": "Wildlife Collisions and Interaction with Humans",
+    "description": "Interactive ArcGIS Online StoryMap about wildlife collisions and interaction with humans in Wyoming.",
+    "link": "https://storymaps.arcgis.com/stories/8affc3dd96e743c999a739009f9648c9"
+  },
+  {
+    "title": "COVID-19 Outbreak 2019-2023",
+    "description": "Interactive ArcGIS Online Dashboard about COVID-19 outbreak.",
+    "link": "https://uwyo.maps.arcgis.com/apps/dashboards/51194030e3cc434d954bcbfed84412e6#"
+  },
+  {
+    "title": "How Water Quality affects Cattails",
+    "description": "Scientific poster about the impact of water quality on cattail growth.<",
+    "link": "https://drive.google.com/file/d/1XWPcAMjWmLhhRSH-VF0_ho-bNy0qACRZ/view?usp=sharing"
+  },
+  {
+    "title": "Oil and Gas Wells in Wyoming",
+    "description": "Interactive ArcGIS Online Dashboard about oil and gas wells in Wyoming.",
+    "link": "https://uwyo.maps.arcgis.com/apps/dashboards/d5cfb016a46c4a43b7df99d139ba0a95"
+  }
+]
